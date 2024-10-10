@@ -4,11 +4,13 @@ In this project, I developed a directory website where GHL freelancers and compa
 
 The **GHL Freelancers & Resources Directory** is a specialized platform designed to connect **GHL freelancers**, **companies**, and **customers**. Developed on the **Brilliant Directory** platform, this website enables freelancers to sell their addons and services, companies to post jobs, and customers to purchase GHL tools and hire freelancers directly. This project creates a streamlined process for job posting, resource selling, and professional hiring, specifically targeting the GHL community.
 
+
 ![Artboard 1 (2)](https://github.com/user-attachments/assets/9b3cfac1-9433-4ff0-8d67-d9539edeb497)
 
 ## 💡 Project Overview
 
 In this project, I developed a directory website that caters to **GHL freelancers** and **companies**. Freelancers can sell their resources or apply for jobs posted by companies, while GHL customers can browse, purchase tools, and connect with freelancers for hiring. It offers a comprehensive and user-friendly experience for all users, from businesses seeking talent to freelancers offering specialized GHL tools or services.
+
 
 ![image](https://github.com/user-attachments/assets/01eabcfc-326e-479a-9f2e-4b3d91f7319f)
 
